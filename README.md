@@ -1,2 +1,2 @@
-# trabajo-l-gica-python
+logica-python
 Trabalhos que desenvolvi na matéria de lógica e algoritimos (usando python)

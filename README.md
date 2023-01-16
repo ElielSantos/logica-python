@@ -1,2 +1,2 @@
-logica-python
-Trabalhos que desenvolvi na matéria de lógica e algoritimos (usando python)
+lógica-python
+Trabalhos que desenvolvi na matéria de lógica e algoritmos (usando python)

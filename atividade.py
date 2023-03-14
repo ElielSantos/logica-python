@@ -1,5 +1,5 @@
 
-print('Bem-vindo a Loja de Eliel Santos')
+print('Bem-vindo a Loja Santos')
 #IMPRIME AS BOAS VINDAS DO PROGRAMA
 
 produto1 = float(input('Entre com o valor do produto:'))   

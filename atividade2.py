@@ -1,4 +1,4 @@
-print('Bem-vindo a sorveteria de Eliel Santos de Jesus')
+print('Bem-vindo a sorveteria de Santos')
 
 #VARIÁVEL QUE DEMOSTRA AO CLIENTE OS PEDIDOS DISPONIVEIS, E RESPECTIVAS CARACTERISTICAS#
 print('.......................CARDÁPIO..........................')

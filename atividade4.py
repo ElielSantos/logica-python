@@ -75,7 +75,7 @@ def removerFuncionario():
 
 
 #..........INICIO DO MAIN..........
-print('Bem-vindo ao controle de funcionários de Eliel Santos de Jesus')
+print('Bem-vindo ao controle de funcionários de Santos')
 while True:
   #OPÇÕES DISPONÍVEIS PARA O USUARIO ESCOLHER#
   opcaoMenu=input('Escolha a opção desejada:\n'+
